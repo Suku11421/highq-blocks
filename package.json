@@ -1,13 +1,13 @@
 {
-  "name": "openblock-blocks",
+  "name": "highq-blocks",
   "version": "0.1.0",
-  "description": "OpenBlock Blocks is a library for building creative computing interfaces.",
+  "description": "highq blocks is a library for building creative computing interfaces.",
   "author": "Massachusetts Institute of Technology",
   "license": "Apache-2.0",
-  "homepage": "https://github.com/openblockcc/openblock-blocks#readme",
+  "homepage": "https://github.com/Suku11421/highq-blocks#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/openblockcc/openblock-blocks.git"
+    "url": "https://github.com/Suku11421/highq-blocks.git"
   },
   "main": "./dist/vertical.js",
   "browser": "./shim/vertical.js",
